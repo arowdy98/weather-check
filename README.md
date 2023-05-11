@@ -1,1 +1,1 @@
-# weather-check
+Weather Check Application
